@@ -1,2 +1,3 @@
 # Segunda-Entrega---Proyecto-de-Clase
 Entrega segundo informe  Esteban Figueroa - 2190057 / Jhoan Sebastian Barreto Villamizar - 2203045 / Julian David Vargas Gomez 2221885 / David Andres Parra Leiva 2230047
+Esta vez, al estar basado en un sistema de árboles y gracias al cambio de sistema de organizacion de datos ahora se presenta menos limitación para añadir paradas. Antes solo se podian añadir paradas al inicio de la ruta, pero ahora gracias al sistema de árboles se pueden crear varias ramas de rutas de transporte. Se aprovecharon las librerías de BigTree y sus herramientas para esta implementacion.
